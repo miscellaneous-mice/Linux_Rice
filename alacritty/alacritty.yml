@@ -29,7 +29,7 @@ font:
 
 
 import:
- - ~/.config/alacritty/alacritty-theme/themes/iterm.yaml
+ - ~/.config/alacritty/iterm.yaml
 
 # cursor:
 #   style: Underline
