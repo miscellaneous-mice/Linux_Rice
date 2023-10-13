@@ -1,0 +1,73 @@
+2023-10-12 11:30:14.110 [info] Traceback (most recent call last):
+  File "/home/megame/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+ModuleNotFoundError: No module named 'jedi_language_server'
+
+2023-10-12 11:30:14.149 [info] [Error - 11:30:14] Server initialization failed.
+2023-10-12 11:30:14.149 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.149 [info] [Info  - 11:30:14] Connection to server got closed. Server will restart.
+2023-10-12 11:30:14.149 [info] true
+2023-10-12 11:30:14.150 [info] [Error - 11:30:14] Python Jedi client: couldn't create connection to server.
+2023-10-12 11:30:14.150 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.217 [info] Traceback (most recent call last):
+  File "/home/megame/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+ModuleNotFoundError: No module named 'jedi_language_server'
+
+2023-10-12 11:30:14.219 [info] [Error - 11:30:14] Server initialization failed.
+2023-10-12 11:30:14.219 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.219 [info] [Info  - 11:30:14] Connection to server got closed. Server will restart.
+2023-10-12 11:30:14.219 [info] true
+2023-10-12 11:30:14.221 [info] [Error - 11:30:14] Python Jedi client: couldn't create connection to server.
+2023-10-12 11:30:14.221 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.280 [info] Traceback (most recent call last):
+  File "/home/megame/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+ModuleNotFoundError: No module named 'jedi_language_server'
+
+2023-10-12 11:30:14.282 [info] [Error - 11:30:14] Server initialization failed.
+2023-10-12 11:30:14.282 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.282 [info] [Info  - 11:30:14] Connection to server got closed. Server will restart.
+2023-10-12 11:30:14.282 [info] true
+2023-10-12 11:30:14.282 [info] [Error - 11:30:14] Python Jedi client: couldn't create connection to server.
+2023-10-12 11:30:14.283 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.283 [info] [Error - 11:30:14] Restarting server failed
+2023-10-12 11:30:14.283 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.324 [info] Traceback (most recent call last):
+  File "/home/megame/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+ModuleNotFoundError: No module named 'jedi_language_server'
+
+2023-10-12 11:30:14.326 [info] [Error - 11:30:14] Server initialization failed.
+2023-10-12 11:30:14.326 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.326 [info] [Info  - 11:30:14] Connection to server got closed. Server will restart.
+2023-10-12 11:30:14.326 [info] true
+2023-10-12 11:30:14.326 [info] [Error - 11:30:14] Python Jedi client: couldn't create connection to server.
+2023-10-12 11:30:14.326 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.326 [info] [Error - 11:30:14] Restarting server failed
+2023-10-12 11:30:14.326 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.355 [info] Traceback (most recent call last):
+  File "/home/megame/.vscode-oss/extensions/ms-python.python-2023.18.0-universal/pythonFiles/run-jedi-language-server.py", line 9, in <module>
+    from jedi_language_server.cli import cli
+ModuleNotFoundError: No module named 'jedi_language_server'
+
+2023-10-12 11:30:14.368 [info] [Error - 11:30:14] Server initialization failed.
+2023-10-12 11:30:14.368 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.368 [info] [Error - 11:30:14] The Python Jedi server crashed 5 times in the last 3 minutes. The server will not be restarted. See the output for more information.
+2023-10-12 11:30:14.368 [info] [Error - 11:30:14] Python Jedi client: couldn't create connection to server.
+2023-10-12 11:30:14.368 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 
+2023-10-12 11:30:14.369 [info] [Error - 11:30:14] Restarting server failed
+2023-10-12 11:30:14.369 [info]   Message: Pending response rejected since connection got disposed
+  Code: -32097 

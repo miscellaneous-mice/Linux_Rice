@@ -1,0 +1,26 @@
+2023-10-12 11:30:14.158 [info] Log level: Info
+2023-10-12 11:30:14.158 [info] Validating found git in: "git"
+2023-10-12 11:30:14.158 [info] Using git "2.42.0" from "git"
+2023-10-12 11:30:14.158 [info] > git rev-parse --show-toplevel [27ms]
+2023-10-12 11:30:14.169 [info] > git rev-parse --git-dir --git-common-dir [58ms]
+2023-10-12 11:30:14.190 [info] Open repository: /home/megame/Learn/python
+2023-10-12 11:30:14.253 [info] > git rev-parse --show-toplevel [37ms]
+2023-10-12 11:30:14.254 [info] > git config --get commit.template [50ms]
+2023-10-12 11:30:14.283 [info] > git rev-parse --show-toplevel [17ms]
+2023-10-12 11:30:14.312 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [33ms]
+2023-10-12 11:30:14.326 [info] > git rev-parse --show-toplevel [15ms]
+2023-10-12 11:30:14.357 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-12 11:30:14.369 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-12 11:30:14.379 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-12 11:30:14.400 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-12 11:30:14.408 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-12 11:30:14.416 [info] > git rev-parse --show-toplevel [1ms]
+2023-10-12 11:30:14.426 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-12 11:30:14.586 [info] > git show --textconv :Lists&dicts.py [12ms]
+2023-10-12 11:30:14.601 [info] > git ls-files --stage -- /home/megame/Learn/python/Lists&dicts.py [14ms]
+2023-10-12 11:30:14.616 [info] > git cat-file -s 8bc6d1b09c55173845ac36c2ff53a29362e4c8fe [2ms]
+2023-10-12 11:30:14.781 [info] > git status -z -uall [461ms]
+2023-10-12 11:30:14.814 [info] > git config --get commit.template [12ms]
+2023-10-12 11:30:14.858 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [44ms]
+2023-10-12 11:30:14.867 [info] > git check-ignore -v -z --stdin [10ms]
+2023-10-12 11:30:14.920 [info] > git status -z -uall [54ms]
