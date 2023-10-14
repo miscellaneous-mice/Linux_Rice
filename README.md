@@ -2,7 +2,7 @@
 
 ## BSPWM
 
-![Rice_2](https://github.com/miscellaneous-mice/Linux_Rice/assets/79500624/6efb0379-4eb2-4aa8-9afe-6c3c0eec17a9)
+![Rice_2](https://github.com/miscellaneous-mice/Linux_Rice/assets/79500624/ce9f41fa-e112-464c-95b0-ee02386ab8c3)
 
 ## Xmonad
 
