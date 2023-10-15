@@ -29,6 +29,7 @@ sxhkd &
 picom --config ~/.config/picom/picom.conf &
 # dunst &
 # polybar &
-~/.config/polybar/launch.sh
-polybar main &
+# ~/.config/polybar/launch.sh
+# polybar main &
+sh ~/.config/polybar/launch.sh &
 
