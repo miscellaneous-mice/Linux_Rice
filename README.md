@@ -2,7 +2,7 @@
 
 - Refer to this [repo](https://gitHub.com/miscellaneous-mice/My_Linux_config) for complete installation 
 
-- This is the [change](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#extras) from the above repository
+- This is the [change](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#extras) after installation to have this configuration shown below
 
 ## BSPWM
 
