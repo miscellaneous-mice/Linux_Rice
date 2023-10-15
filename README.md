@@ -1,6 +1,6 @@
 # Linux_Rice
 
-Refer to this [repo](https://gitHub.com/miscellanoeus-mice/My_Linux_config) for complete installation 
+Refer to this [repo](https://gitHub.com/miscellaneous-mice/My_Linux_config) for complete installation 
 
 ## BSPWM
 
