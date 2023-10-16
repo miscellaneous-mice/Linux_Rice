@@ -36,6 +36,7 @@
   - [Configuring AUR helper](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-aur-helper)
   - [Configuring neovim](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-neovim)
   - [Configuring rofi](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-rofi)
+  - [Configuring picom](https://github.com/miscellaneous-mice/Linux_Rice/blob/main/README.md#configuring-picom)
   - [Configuring xmobar for Xmonad](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-xmobar-xmonad) or [Configuring polybar for BSPWM](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-polybar-bspwm)
   - [Configuring alacritty](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#adding-alacritty-themes)
   - [Neofetch themes](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-neofetch-themes)
