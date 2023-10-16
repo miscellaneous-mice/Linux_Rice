@@ -388,9 +388,6 @@ exec bspwm
 
 ## If Xmonad breaks after update try this
 - First open the ttyl terminal from login screen ```ctrl + alt + F2```
-- Disable lightdm ```$ sudo systemctl disable lightdm```
-- Reboot ```$ sudo reboot```
 - Recompile the xmonad package ```$ xmonad --recompile```
 - Start xmonad using ```$ startx```
-- Make sure to enable lightdm after ```$ sudo systemctl enable lightdm```
 
