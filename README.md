@@ -31,22 +31,19 @@
   - Make this directory for rofi and xmobar ```mkdir ~/.local/bin```
   - To store screenshots make this folder ```mkdir ~/Pictures ~/Pictures/Screenshots```
   - git clone this repository in home directory ```git clone https://github.com/miscellaneous-mice/Linux_Rice.git```
-  - Download all the dependencies [Dependencies](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#packages-dependencies)
-  - [Setting theme](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#setting-themes-icons-fonts-mouse-cursors)
-  - [Configuring init files](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-init-files)
-  - [Configuring Window manager files](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-window-manager-files)
-  - [Setting themes](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#setting-themes-icons-fonts-mouse-cursors)
-  - [Configuring AUR helper](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-aur-helper)
-  - [Configuring neovim](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-neovim)
-  - [Configuring login screen](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-lightdm) or [Using startx](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#using-startx-instead-of-lightdm)
-  - [Configuring rofi](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-rofi)
-  - [Configuring picom](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#installation-of-picom)
-  - [Configuring xmobar for Xmonad](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-xmobar) or [Configuring polybar for BSPWM](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-polybar-bspwm)
-  - [Configuring alacritty](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#adding-alacritty-themes)
-  - [Neofetch themes](https://github.com/miscellaneous-mice/My_Linux_config/tree/main#configuring-neofetch-themes)
-  - [Starship themes](https://github.com/miscellaneous-mice/My_Linux_config/blob/main/README.md#starship-terminal)
-  - [Rice terminal](https://github.com/miscellaneous-mice/My_Linux_config#to-make-rice-setup-complete)
-  - [Extras](https://github.com/miscellaneous-mice/My_Linux_config/blob/main/README.md#extras)
+  - Download all the dependencies [Dependencies](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#packages-dependencies)
+  - [Setting theme](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#setting-themes-icons-fonts-mouse-cursors)
+  - [Configuring init files](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-init-files)
+  - [Configuring Window manager files](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-window-manager-files)
+  - [Configuring AUR helper](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-aur-helper)
+  - [Configuring neovim](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-neovim)
+  - [Configuring rofi](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-rofi)
+  - [Configuring xmobar for Xmonad](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-xmobar-xmonad) or [Configuring polybar for BSPWM](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-polybar-bspwm)
+  - [Configuring alacritty](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#adding-alacritty-themes)
+  - [Neofetch themes](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#configuring-neofetch-themes)
+  - [Starship themes](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#starship-terminal)
+  - [Rice terminal](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#to-make-rice-setup-complete)
+  - [Extras](https://github.com/miscellaneous-mice/Linux_Rice/tree/main#some-changes-you-need-to-make-for-your-pc)
 
 
 ## Packages dependencies
