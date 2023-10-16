@@ -372,6 +372,10 @@ font:
   alias unimatrix="~/.local/bin/unimatrix -c blue -u 'Linux'"
   ```
 
+## You can do more rice customisation if you want using these repo's
+- [BSPWM](https://github.com/miscellaneous-mice/BSPWM_Rice)
+- [Xmonad](https://github.com/miscellaneous-mice/Xmonad_Rice)
+
 ## Some changes you need to make for your PC
 - In ```~/.xinitrc``` files you might need to replace the display name and resolution with yours. Find display name by ```$ xrandr```
 ```
