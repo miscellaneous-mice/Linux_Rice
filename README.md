@@ -243,10 +243,6 @@ $ cp -r ~/Linux_Rice/.config/rofi/* ~/.config/rofi/
 ```
 
 ### Configuring rofi power menu
-- First get into rofi directory in this github repo
-```
-$ cd ~/My_Linux_config/rofi/
-```
 - Copy the rofi-power-menu into ~/.local/bin folder
 ```
 $ cp ~/Linux_Rice/.local/bin/rofi-power-menu ~/.local/bin/
