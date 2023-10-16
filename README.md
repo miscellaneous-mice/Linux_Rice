@@ -189,6 +189,12 @@ $ mv ~/.config/neofetch/dotfetch.conf ~/.config/neofetch/config.conf
   - https://github.com/Chick2D/neofetch-themes
 
 
+## Configuring picom
+- Copy the config files into ```~/.config/picom/``` folder
+```
+$ cp ~/Linux_Rice/.config/picom/picom.conf ~/.config/picom/
+```
+
 ## Setting a cursor theme
 - In ```~/.xinitrc``` add the following line. Only for xmonad..!!
 ```
