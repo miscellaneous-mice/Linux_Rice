@@ -111,7 +111,7 @@ $ mv *.ttf ~/.fonts/
   ```
   - Now replace these config files into its appropriate directory
   ```
-  $ cp ~/Linux_Rice/xmonad/xmonad.hs ~/.xmonad/
+  $ cp ~/Linux_Rice/.xmonad/xmonad.hs ~/.xmonad/
   ```
 
 ## Configuring init files
