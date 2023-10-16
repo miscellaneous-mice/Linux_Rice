@@ -89,7 +89,7 @@ $ unzip Iosevka.zip [For BSPWM]
 $ unzip Mononoki.zip [For Xmonad]
 $ mv *.ttf ~/.fonts/
 ```
-- Open lxappearance and set the themes you like. For configuring mouse cursor appropriately look into [Setting a cursor theme](https://github.com/miscellaneous-mice/My_Linux_config/blob/main/README.md#setting-a-cursor-theme)
+- Open lxappearance and set the themes you like. For configuring mouse cursor appropriately look into [Setting a cursor theme](https://github.com/miscellaneous-mice/Linux_Rice#setting-a-cursor-theme)
 - Set the wallpaper ```feh --bg-fill ~/Linux_Rice/wallpaper/street.png```
 
 
