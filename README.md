@@ -216,7 +216,7 @@ $ mv ~/.xmobarrc ~/Backup/
 ```
 - Copy the pacman update file and make it executable
 ```
-$ cp ~/Linux_Rice/.config/xmobar/pacupdate ~/.local/bin/
+$ cp ~/Linux_Rice/.local/bin/pacupdate ~/.local/bin/
 $ chmod +x ~/.local/bin/pacupdate
 ```
 - Make a xmobar directory
@@ -225,7 +225,7 @@ $ mkdir ~/.config/xmobar
 ```
 - copy the new xmobar file into the config directory
 ```
-$ cp ~/My_Linux_config/xmobar/xmobarrc ~/.config/xmobar/
+$ cp ~/Linux_Rice/.config/xmobar/xmobarrc ~/.config/xmobar/
 ```
 
 ## Configuring rofi
