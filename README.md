@@ -70,6 +70,7 @@
     - https://www.nerdfonts.com/font-downloads (Jetbrains nerd fonts) [For both]
     - https://www.nerdfonts.com/font-downloads (Iosevka nerd fonts) [For BSPWM]
     - https://www.nerdfonts.com/font-downloads (Mononoki nerd fonts) [For Xmonad]
+    - https://www.nerdfonts.com/font-downloads (SauceCodePro nerd fonts) [For both]
   - Mouse cursor -> https://www.gnome-look.org/p/1197198
 - Make the appropriate directories so lxappearance can recognise them
 ```
