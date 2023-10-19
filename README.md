@@ -281,7 +281,7 @@ $ chmod +x ~/.config/polybar/launch.sh
 - References
   - https://github.com/neoryans/dotfiles-bspwm/tree/main/.config
 
-## Adding alacritty themes
+## Configuring alacritty
 
 - Replace the alacritty config files
 ```
@@ -304,6 +304,7 @@ import:
 ```
 - References
   - https://github.com/eendroroy/alacritty-theme
+  - https://fuchsia.googlesource.com/third_party/github.com/alacritty/alacritty/+/refs/tags/v0.10.0-rc2/alacritty.yml
 
 ## Starship terminal
 - First install starship
