@@ -393,7 +393,8 @@ exec xmonad
 exec bspwm
 ```
 - You might need to change some configurations in polybar like battery adapter name. Wifi adapter name etc.
-- If you get an ```locale not set properly```. Then you might need to change locale.conf file to ```LANG=en_US.UTF-8```
+- If you get an ```locale not set properly```. Then you might need to change ```/etc/locale.conf``` file to your locale.
+  - *Your locale* can be found out by ```$ locale-gen```. Hence change ```/etc/locale.conf``` to ```LANG=[Your locale]```.
 
 ## If Xmonad breaks after update try this
 - First open the ttyl terminal from login screen ```ctrl + alt + F2```
