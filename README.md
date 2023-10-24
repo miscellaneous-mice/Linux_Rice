@@ -83,13 +83,13 @@ $ sudo pacman -S unzip
 ```
 - Extract the downloaded files into appropriate directories. First cd into the folder where you've downloaded
 ```
-$ tar -xf Dracula.tar.xz -C ~/.themes/
-$ tar -xf candy-icons.tar.xz -C ~/.icons/
-$ tar -xf Bibata-Modern-Ice.tar.xz -C ~/.icons/
+$ sudo tar -xf Dracula.tar.xz -C /usr/share/themes/
+$ sudo tar -xf candy-icons.tar.xz -C /usr/share/icons/
+$ sudo tar -xf Bibata-Modern-Ice.tar.xz -C /usr/share/icons/
 $ unzip JetBrainsMono.zip [For both]
 $ unzip Iosevka.zip [For BSPWM]
 $ unzip Mononoki.zip [For Xmonad]
-$ mv *.ttf ~/.fonts/
+$ sudo mv *.ttf /usr/share/fonts/
 ```
 - Open lxappearance and set the themes you like. For configuring mouse cursor appropriately look into [Setting a cursor theme](https://github.com/miscellaneous-mice/Linux_Rice#setting-a-cursor-theme)
 - Set the wallpaper ```feh --bg-fill ~/Linux_Rice/wallpaper/street.png```
@@ -202,8 +202,8 @@ $ cp ~/Linux_Rice/.config/picom/picom.conf ~/.config/picom/
 ```
 xsetroot -cursor_name left_ptr
 ```
-- If to get this folder ```~/.icons/default/index.theme``` change the all themes, icons, mouse cursor in lxappearance to default, then back to our theme (i.e. dracula, candy-icons, bibata)
-- First edit the ```~/.icons/default/index.theme```
+- If to get this folder ```/usr/share/icons/default/index.theme``` change the all themes, icons, mouse cursor in lxappearance to default, then back to our theme (i.e. dracula, candy-icons, bibata)
+- First edit the ```/usr/share/icons/default/index.theme```
 ```
 [icon theme] 
 Inherits=Bibata-Modern-Ice
